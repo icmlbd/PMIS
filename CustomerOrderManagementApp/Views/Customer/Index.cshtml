@@ -1,0 +1,41 @@
+﻿@model List<Customer>
+
+@{
+    int slNo = 0;
+}
+
+<h1>Customer List</h1>
+
+@if (Model == null  || Model.Count == 0)
+{
+    <h4>No Records Found!</h4>
+}
+else
+{
+    <table class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Phone</th>
+                <th scope="col">Address</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Customer customer in Model)
+            {
+                <tr>
+                    <td>@(++slNo)</td>
+                    <td>@customer.Name</td>
+                    <td>@customer.Phone</td>
+                    <td>@customer.Address</td>
+                    <td><a href="/customer/view/@customer.Id">View</a> |
+                        <a href="/customer/edit/@customer.Id">Edit</a> | 
+                        Delete
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

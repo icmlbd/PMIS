@@ -1,0 +1,262 @@
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.Development.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.staticwebassets.runtime.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.exe
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.deps.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.runtimeconfig.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.dll
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.pdb
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfoInputs.cache
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfo.cs
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.csproj.CoreCompileInputs.cache
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cache
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cs
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagementApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagementApp.props
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagementApp.props
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagementApp.props
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagementApp.styles.css
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagementApp.bundle.scp.css
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.dll
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\refint\CustomerOrderManagementApp.dll
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.pdb
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.genruntimeconfig.cache
+E:\Training\ICB\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\ref\CustomerOrderManagementApp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.staticwebassets.runtime.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.exe
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.deps.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.runtimeconfig.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.pdb
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfoInputs.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfo.cs
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.csproj.CoreCompileInputs.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cs
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagementApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagementApp.props
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagementApp.props
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagementApp.props
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagementApp.styles.css
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagementApp.bundle.scp.css
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\refint\CustomerOrderManagementApp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.pdb
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.genruntimeconfig.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\ref\CustomerOrderManagementApp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Humanizer.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.csproj.AssemblyReference.cache
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\Customer.B4D40FF7.Up2Date
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Castle.Core.dll
+D:\Course - ibCS ASP.NET Core\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.Development.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\appsettings.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.staticwebassets.runtime.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.exe
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.deps.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.runtimeconfig.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\CustomerOrderManagementApp.pdb
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Castle.Core.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Humanizer.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.CodeDom.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\System.Text.Json.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.csproj.AssemblyReference.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfoInputs.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.AssemblyInfo.cs
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.csproj.CoreCompileInputs.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.MvcApplicationPartsAssemblyInfo.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.RazorAssemblyInfo.cs
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagementApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagementApp.props
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagementApp.props
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagementApp.props
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagementApp.styles.css
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagementApp.bundle.scp.css
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\Customer.B4D40FF7.Up2Date
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\refint\CustomerOrderManagementApp.dll
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.pdb
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\CustomerOrderManagementApp.genruntimeconfig.cache
+F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\CustomerOrderManagementApp\obj\Debug\net8.0\ref\CustomerOrderManagementApp.dll

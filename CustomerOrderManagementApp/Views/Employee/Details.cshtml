@@ -1,0 +1,103 @@
+﻿@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+
+<h2>Employee Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <dl class="row">
+        <dt class="col-sm-2">
+            Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Name
+        </dd>
+        <dt class="col-sm-2">
+            Employee ID
+        </dt>
+        <dd class="col-sm-10">
+            @Model.EmployeeId
+        </dd>
+        <dt class="col-sm-2">
+            Present Address
+        </dt>
+        <dd class="col-sm-10">
+            @Model.PresentAddress
+        </dd>
+        <dt class="col-sm-2">
+            Permanent Address
+        </dt>
+        <dd class="col-sm-10">
+            @Model.PermanentAddress
+        </dd>
+        <dt class="col-sm-2">
+            Father's Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FathersName
+        </dd>
+        <dt class="col-sm-2">
+            Mother's Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.MothersName
+        </dd>
+        <dt class="col-sm-2">
+            Spouse's Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.SpousesName
+        </dd>
+        <dt class="col-sm-2">
+            Mobile Number
+        </dt>
+        <dd class="col-sm-10">
+            @Model.MobileNo
+        </dd>
+        <dt class="col-sm-2">
+            Telephone Number
+        </dt>
+        <dd class="col-sm-10">
+            @Model.TelephoneNo
+        </dd>
+        <dt class="col-sm-2">
+            Email
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Email
+        </dd>
+        <dt class="col-sm-2">
+            Date of Birth
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DateOfBirth.ToString("d")
+        </dd>
+        <dt class="col-sm-2">
+            NID Number
+        </dt>
+        <dd class="col-sm-10">
+            @Model.NIDNo
+        </dd>
+        <dt class="col-sm-2">
+            Blood Group
+        </dt>
+        <dd class="col-sm-10">
+            @Model.BloodGroup
+        </dd>
+        <dt class="col-sm-2">
+            Bank Account Info
+        </dt>
+        <dd class="col-sm-10">
+            @Model.BankAccountInfo
+        </dd>
+    </dl>
+</div>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</p>
