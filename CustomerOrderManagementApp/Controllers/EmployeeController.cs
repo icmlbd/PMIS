@@ -23,7 +23,7 @@ namespace CustomerOrderManagementApp.Controllers
             {
                 Id = e.Id,
                 Name = e.Name,
-                EmployeeId = e.EmployeeId,
+                EmployeeId = e.EmployeeIDNo,
                 PresentAddress = e.PersonalInformation.PresentAddress,
                 PermanentAddress = e.PersonalInformation.PermanentAddress,
                 FathersName = e.PersonalInformation.FathersName,
@@ -54,7 +54,7 @@ namespace CustomerOrderManagementApp.Controllers
                 var employee = new Employee
                 {
                     Name = employeeViewModel.Name,
-                    EmployeeId = employeeViewModel.EmployeeId,
+                    EmployeeIDNo = employeeViewModel.EmployeeId,
                     PersonalInformation=new PersonalInformation {
                         PresentAddress = employeeViewModel.PresentAddress,
                         PermanentAddress = employeeViewModel.PermanentAddress,
@@ -103,7 +103,7 @@ namespace CustomerOrderManagementApp.Controllers
             {
                 Id = employee.Id,
                 Name = employee.Name,
-                EmployeeId = employee.EmployeeId,
+                EmployeeId = employee.EmployeeIDNo,
                 PresentAddress = employee.PersonalInformation.PresentAddress,
                 PermanentAddress = employee.PersonalInformation.PermanentAddress,
                 FathersName = employee.PersonalInformation.FathersName,
@@ -136,7 +136,7 @@ namespace CustomerOrderManagementApp.Controllers
 
                 // Update employee properties
                 employee.Name = employeeViewModel.Name;
-                employee.EmployeeId = employeeViewModel.EmployeeId;
+                employee.EmployeeIDNo = employeeViewModel.EmployeeId;
                 employee.PersonalInformation.PresentAddress = employeeViewModel.PresentAddress;
                 employee.PersonalInformation.PermanentAddress = employeeViewModel.PermanentAddress;
                 employee.PersonalInformation.FathersName = employeeViewModel.FathersName;
@@ -173,7 +173,7 @@ namespace CustomerOrderManagementApp.Controllers
             {
                 Id = employee.Id,
                 Name = employee.Name,
-                EmployeeId = employee.EmployeeId,
+                EmployeeId = employee.EmployeeIDNo,
                 PresentAddress = employee.PersonalInformation.PresentAddress,
                 PermanentAddress = employee.PersonalInformation.PermanentAddress,
                 FathersName = employee.PersonalInformation.FathersName,

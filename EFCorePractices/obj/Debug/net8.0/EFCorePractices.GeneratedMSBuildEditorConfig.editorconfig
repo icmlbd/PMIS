@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EFCorePractices
-build_property.ProjectDir = F:\CustomerOrderManagementApp_18Sep2024\CustomerOrderManagementApp\CustomerOrderManagementApp\EFCorePractices\
+build_property.ProjectDir = D:\Course - ibCS ASP.NET Core\PMIS\EFCorePractices\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
