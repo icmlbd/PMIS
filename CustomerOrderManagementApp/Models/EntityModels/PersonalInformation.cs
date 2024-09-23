@@ -1,8 +1,11 @@
-﻿namespace CustomerOrderManagementApp.Models.EntityModels
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CustomerOrderManagementApp.Models.EntityModels
 {
     public class PersonalInformation
     {
-        public int Id { get; set; } // Primary Key
+        [Key]
+        public int EmployeeId { get; set; } // Primary Key
 
         public string PresentAddress { get; set; }
         public string PermanentAddress { get; set; }
@@ -35,7 +38,6 @@
         public string BankAccountInfo { get; set; }
 
         // Foreign Key to Employee
-        public int EmployeeId { get; set; }
         public virtual Employee Employee { get; set; } // Navigation Property
     }
 }

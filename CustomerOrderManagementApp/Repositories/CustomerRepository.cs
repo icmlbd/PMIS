@@ -1,21 +1,24 @@
 ﻿using CustomerOrderManagementApp.DataStorage;
 using CustomerOrderManagementApp.Models.EntityModels;
+using CustomerOrderManagementApp.Repositories.Base;
+using Microsoft.EntityFrameworkCore;
 
 namespace CustomerOrderManagementApp.Repositories
 {
-    public class CustomerRepository
+    public class CustomerRepository : Repository<Customer>
     {
         private EcommerceDbContext _db;
 
-        public CustomerRepository()
+        public CustomerRepository():base(new EcommerceDbContext())
         {
             _db = new EcommerceDbContext();
         }
 
         // CRUD operations -- add, update, remove, get operations, getall, getbyid
 
-        public bool Add(Customer customer)
+        public override ICollection<Customer> GetAll()
         {
+<<<<<<< HEAD
             _db.Add(customer);
 
             return _db.SaveChanges() > 0;
@@ -37,12 +40,22 @@ namespace CustomerOrderManagementApp.Repositories
         public ICollection<Customer> GetAll()
         {
             return _db.Customers.OrderBy(c => c.Name).ToList();
+=======
+             return _db.Customers.Include(c=>c.Category).ToList();
+>>>>>>> 15f5dd2056c6d18f8bd2a043818b48790f50d2fa
         }
 
         public Customer? Get(int id)
         {
-            return _db.Customers.FirstOrDefault(c => c.Id == id);
+            return base.GetFirstOrDefault(c=>c.Id == id);
         }
+
+        public Customer? GetByCategoryId(int categoryId)
+        {
+            return base.GetFirstOrDefault(c => c.CategoryId == categoryId);
+        }
+
+
 
     }
 }

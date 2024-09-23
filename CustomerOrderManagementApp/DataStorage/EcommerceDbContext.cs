@@ -19,7 +19,6 @@ namespace CustomerOrderManagementApp.DataStorage
         {
             string connectionString = "User Id=INVEST;Password=icml1234;Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.27.250)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=ORCLPDB)))";
             optionsBuilder
-                .UseLazyLoadingProxies()
                 .UseOracle(connectionString);
             optionsBuilder.LogTo(message => Debug.WriteLine(message));
         }
