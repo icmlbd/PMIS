@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\models\\entitymodels\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\models\\entitymodels\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\models\\entitymodels\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\models\\entitymodels\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\models\\entitymodels\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\models\\entitymodels\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\models\\entitymodels\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\models\\entitymodels\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|f:\\customerordermanagementapp_18sep2024\\customerordermanagementapp\\customerordermanagementapp\\customerordermanagementapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,12 +59,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerCategory.cs",
+              "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\EntityModels\\CustomerCategory.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Models\\EntityModels\\CustomerCategory.cs",
+              "ToolTip": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\EntityModels\\CustomerCategory.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Models\\EntityModels\\CustomerCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:21:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:43:06.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:37:07.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PersonalInformation.cs",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\EntityModels\\PersonalInformation.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Models\\EntityModels\\PersonalInformation.cs",
               "ToolTip": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\EntityModels\\PersonalInformation.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Models\\EntityModels\\PersonalInformation.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:25:39.901Z",
               "EditorCaption": ""
@@ -65,14 +116,14 @@
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
               "ToolTip": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:25:34.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Views\\Employee\\Details.cshtml",
@@ -80,12 +131,11 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAFUAAAAAAAAAAAAowGYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T08:21:59.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:21:59.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Views\\Employee\\Edit.cshtml",
@@ -93,12 +143,11 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AQIAAEsAAAAAAAAAAAAswFYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T08:13:57.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:13:57.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Models\\ViewModels\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Models\\ViewModels\\EmployeeViewModel.cs",
@@ -106,12 +155,11 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Models\\ViewModels\\EmployeeViewModel.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAUwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:04:44.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T08:04:44.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Views\\Employee\\Index.cshtml",
@@ -119,12 +167,11 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T07:57:26.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T07:57:26.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
@@ -132,12 +179,11 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAALAAAAAAAAAAAAAwwLMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:34:50.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:34:50.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs",
@@ -145,8 +191,7 @@
               "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAvwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:38:19.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:38:19.956Z"
             }
           ]
         }

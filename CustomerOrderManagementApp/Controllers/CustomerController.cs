@@ -22,7 +22,7 @@ namespace CustomerOrderManagementApp.Controllers
        
         public IActionResult Index()
         {
-            var customers = _customerRepository.GetAll().OrderBy(c=>c.Name).ToList();
+            var customers = _customerRepository.GetAll().ToList();
 
             return View(customers);
         }

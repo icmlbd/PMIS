@@ -30,13 +30,13 @@ namespace CustomerOrderManagementApp.Repositories
 
         public bool Delete(Customer customer)
         {
-            _db.Customers.Remove(customer);
+            _db.Remove(customer);
             return _db.SaveChanges() > 0; 
         }
 
         public ICollection<Customer> GetAll()
         {
-            return _db.Customers.ToList();
+            return _db.Customers.OrderBy(c => c.Name).ToList();
         }
 
         public Customer? Get(int id)
