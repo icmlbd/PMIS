@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Course - ibCS ASP.NET Core\\PMIS\\EFCorePractices\\EFCorePractices.csproj": {}
+    "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\EFCorePractices\\EFCorePractices.csproj": {}
   },
   "projects": {
-    "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj": {
+    "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+        "projectUniqueName": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
         "projectName": "CustomerOrderManagementApp",
-        "projectPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\obj\\",
+        "projectPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Course - ibCS ASP.NET Core\\PMIS\\EFCorePractices\\EFCorePractices.csproj": {
+    "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\EFCorePractices\\EFCorePractices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Course - ibCS ASP.NET Core\\PMIS\\EFCorePractices\\EFCorePractices.csproj",
+        "projectUniqueName": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\EFCorePractices\\EFCorePractices.csproj",
         "projectName": "EFCorePractices",
-        "projectPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\EFCorePractices\\EFCorePractices.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\EFCorePractices\\obj\\",
+        "projectPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\EFCorePractices\\EFCorePractices.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\EFCorePractices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj": {
-                "projectPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj"
+              "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj": {
+                "projectPath": "F:\\CustomerOrderManagementApp_18Sep2024\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj"
               }
             }
           }
@@ -155,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
