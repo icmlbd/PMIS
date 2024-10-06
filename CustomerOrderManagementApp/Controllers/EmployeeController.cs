@@ -1,6 +1,7 @@
 ﻿using CustomerOrderManagementApp.Models.EntityModels;
 using CustomerOrderManagementApp.Models.ViewModels;
 using CustomerOrderManagementApp.Repositories;
+using CustomerOrderManagementApp.Repositories.Abstractions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -9,9 +10,11 @@ namespace CustomerOrderManagementApp.Controllers
     public class EmployeeController : Controller
     {
         EmployeeRepository _employeeRepository;
+        ICustomerRepository _customerRepository; 
 
-        public EmployeeController()
+        public EmployeeController(ICustomerRepository customerRepository)
         {
+            _customerRepository = customerRepository;
             _employeeRepository = new EmployeeRepository();
         }
 

@@ -1,6 +1,7 @@
 ﻿using CustomerOrderManagementApp.Models.EntityModels;
 using CustomerOrderManagementApp.Models.ViewModels;
 using CustomerOrderManagementApp.Repositories;
+using CustomerOrderManagementApp.Repositories.Abstractions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -9,20 +10,27 @@ namespace CustomerOrderManagementApp.Controllers
 
     public class CustomerController : Controller
     {
-        CustomerRepository _customerRepository;
+        ICustomerRepository _customerRepository; 
         CustomerCategoryRepository _custCategoryRepository; 
        
         
-        public CustomerController()
+        public CustomerController(ICustomerRepository customerRepository)
         {
-           _customerRepository = new CustomerRepository();
+            _customerRepository = customerRepository;
+            
             _custCategoryRepository = new CustomerCategoryRepository();
         }
 
        
-        public IActionResult Index()
+        public IActionResult Index(string? customerType)
         {
-            var customers = _customerRepository.GetAll().OrderBy(c=>c.Name).ToList();
+            List<Customer> customers; 
+           
+            customers = _customerRepository.GetAll().OrderBy(c => c.Name).ToList();
+            
+             
+            
+           
 
             return View(customers);
         }

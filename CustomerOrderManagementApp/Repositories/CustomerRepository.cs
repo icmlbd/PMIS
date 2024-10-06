@@ -1,11 +1,12 @@
 ﻿using CustomerOrderManagementApp.DataStorage;
 using CustomerOrderManagementApp.Models.EntityModels;
+using CustomerOrderManagementApp.Repositories.Abstractions;
 using CustomerOrderManagementApp.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
 
 namespace CustomerOrderManagementApp.Repositories
 {
-    public class CustomerRepository : Repository<Customer>
+    public class CustomerRepository : Repository<Customer>,ICustomerRepository
     {
         private EcommerceDbContext _db;
 
@@ -31,7 +32,6 @@ namespace CustomerOrderManagementApp.Repositories
             return base.GetFirstOrDefault(c => c.CategoryId == categoryId);
         }
 
-
-
+       
     }
 }
