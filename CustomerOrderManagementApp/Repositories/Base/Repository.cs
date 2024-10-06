@@ -1,10 +1,12 @@
 ﻿using CustomerOrderManagementApp.DataStorage;
 using CustomerOrderManagementApp.Models.EntityModels;
+using CustomerOrderManagementApp.Repositories.Abstractions;
 using Microsoft.EntityFrameworkCore;
+
 
 namespace CustomerOrderManagementApp.Repositories.Base
 {
-    public class Repository<T> where T : class
+    public class Repository<T> : IRepository<T> where T : class
     {
         DbContext _db;
 

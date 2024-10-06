@@ -10,7 +10,7 @@ namespace CustomerOrderManagementApp.Repositories
     {
         private EcommerceDbContext _db;
 
-        public CustomerRepository():base(new EcommerceDbContext())
+        public CustomerRepository() : base(new EcommerceDbContext())
         {
             _db = new EcommerceDbContext();
         }
@@ -19,12 +19,12 @@ namespace CustomerOrderManagementApp.Repositories
 
         public override ICollection<Customer> GetAll()
         {
-             return _db.Customers.Include(c=>c.Category).ToList();
+            return _db.Customers.Include(c => c.Category).ToList();
         }
 
         public Customer? Get(int id)
         {
-            return base.GetFirstOrDefault(c=>c.Id == id);
+            return base.GetFirstOrDefault(c => c.Id == id);
         }
 
         public Customer? GetByCategoryId(int categoryId)

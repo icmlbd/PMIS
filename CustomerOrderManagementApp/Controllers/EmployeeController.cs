@@ -21,24 +21,26 @@ namespace CustomerOrderManagementApp.Controllers
         public IActionResult Index()
         {
             var employees=_employeeRepository.GetAll();
+
+           
             // Map Employee entities to EmployeeViewModel
             var employeeViewModels = employees.Select(e => new EmployeeViewModel
             {
                 Id = e.Id,
                 Name = e.Name,
-                EmployeeId = e.EmployeeIDNo,
+                EmployeeIDNo = e.EmployeeIDNo,  // Ensure this matches your Employee entity property
                 PresentAddress = e.PersonalInformation.PresentAddress,
-                PermanentAddress = e.PersonalInformation.PermanentAddress,
-                FathersName = e.PersonalInformation.FathersName,
-                MothersName = e.PersonalInformation.MothersName,
-                SpousesName = e.PersonalInformation.SpousesName,
-                MobileNo = e.PersonalInformation.MobileNo,
-                TelephoneNo = e.PersonalInformation.TelephoneNo,
-                Email = e.PersonalInformation.Email,
-                DateOfBirth = e.PersonalInformation.DateOfBirth,
-                NIDNo = e.PersonalInformation.NIDNo,
-                BloodGroup = e.PersonalInformation.BloodGroup,
-                BankAccountInfo = e.PersonalInformation.BankAccountInfo
+                PermanentAddress = e.PersonalInformation?.PermanentAddress,  // Use ?. to prevent null reference
+                FathersName = e.PersonalInformation?.FathersName,
+                MothersName = e.PersonalInformation?.MothersName,
+                SpousesName = e.PersonalInformation?.SpousesName,
+                MobileNo = e.PersonalInformation?.MobileNo,
+                TelephoneNo = e.PersonalInformation?.TelephoneNo,
+                Email = e.PersonalInformation?.Email,
+                DateOfBirth = (DateTime)(e.PersonalInformation?.DateOfBirth),
+                NIDNo = e.PersonalInformation?.NIDNo,
+                BloodGroup = e.PersonalInformation?.BloodGroup,
+                BankAccountInfo = e.PersonalInformation?.BankAccountInfo
             }).ToList();
 
             return View(employeeViewModels);
@@ -57,7 +59,7 @@ namespace CustomerOrderManagementApp.Controllers
                 var employee = new Employee
                 {
                     Name = employeeViewModel.Name,
-                    EmployeeIDNo = employeeViewModel.EmployeeId,
+                    EmployeeIDNo = employeeViewModel.EmployeeIDNo,
                     PersonalInformation=new PersonalInformation {
                         PresentAddress = employeeViewModel.PresentAddress,
                         PermanentAddress = employeeViewModel.PermanentAddress,
@@ -106,7 +108,7 @@ namespace CustomerOrderManagementApp.Controllers
             {
                 Id = employee.Id,
                 Name = employee.Name,
-                EmployeeId = employee.EmployeeIDNo,
+                EmployeeIDNo = employee.EmployeeIDNo,
                 PresentAddress = employee.PersonalInformation.PresentAddress,
                 PermanentAddress = employee.PersonalInformation.PermanentAddress,
                 FathersName = employee.PersonalInformation.FathersName,
@@ -139,7 +141,7 @@ namespace CustomerOrderManagementApp.Controllers
 
                 // Update employee properties
                 employee.Name = employeeViewModel.Name;
-                employee.EmployeeIDNo = employeeViewModel.EmployeeId;
+                employee.EmployeeIDNo = employeeViewModel.EmployeeIDNo;
                 employee.PersonalInformation.PresentAddress = employeeViewModel.PresentAddress;
                 employee.PersonalInformation.PermanentAddress = employeeViewModel.PermanentAddress;
                 employee.PersonalInformation.FathersName = employeeViewModel.FathersName;
@@ -176,7 +178,7 @@ namespace CustomerOrderManagementApp.Controllers
             {
                 Id = employee.Id,
                 Name = employee.Name,
-                EmployeeId = employee.EmployeeIDNo,
+                EmployeeIDNo = employee.EmployeeIDNo,
                 PresentAddress = employee.PersonalInformation.PresentAddress,
                 PermanentAddress = employee.PersonalInformation.PermanentAddress,
                 FathersName = employee.PersonalInformation.FathersName,

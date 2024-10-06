@@ -27,10 +27,7 @@ namespace CustomerOrderManagementApp.Controllers
             List<Customer> customers; 
            
             customers = _customerRepository.GetAll().OrderBy(c => c.Name).ToList();
-            
-             
-            
-           
+
 
             return View(customers);
         }

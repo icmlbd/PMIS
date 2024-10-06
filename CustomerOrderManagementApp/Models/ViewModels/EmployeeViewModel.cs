@@ -2,11 +2,13 @@
 {
     public class EmployeeViewModel
     {
+        internal string EmployeeId;
+
         public int Id { get; set; }
 
         public string Name { get; set; }
 
-        public string EmployeeId { get; set; }
+        public string EmployeeIDNo { get; set; }
 
         // Other necessary employee fields
         public string PresentAddress { get; set; }

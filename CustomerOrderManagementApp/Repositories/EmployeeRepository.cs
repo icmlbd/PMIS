@@ -2,6 +2,7 @@
 using CustomerOrderManagementApp.Models.EntityModels;
 using CustomerOrderManagementApp.Repositories.Abstractions;
 using CustomerOrderManagementApp.Repositories.Base;
+using Microsoft.EntityFrameworkCore;
 
 namespace CustomerOrderManagementApp.Repositories
 {
@@ -11,9 +12,15 @@ namespace CustomerOrderManagementApp.Repositories
         public EmployeeRepository(): base(new EcommerceDbContext()) {
             _db = new EcommerceDbContext();
         }
+        public override ICollection<Employee> GetAll()
+        {
+            return _db.Employees.Include(c=>c.PersonalInformation).ToList();
+        }
+
+
         public Employee? Get(int id)
         {
-            return _db.Employees.FirstOrDefault(c => c.Id == id);
+            return _db.Employees.Include(c => c.PersonalInformation).FirstOrDefault(c => c.Id == id);
         }
     }
 }

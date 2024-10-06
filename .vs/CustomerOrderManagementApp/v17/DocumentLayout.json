@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\Course - ibCS ASP.NET Core\\PMIS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\premiumcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\premiumcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\customerordermanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\customerordermanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\personalinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\personalinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\models\\entitymodels\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\models\\entitymodels\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\abstractions\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\premiumcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\premiumcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\customerordermanagementapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\customerordermanagementapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|d:\\course - ibcs asp.net core\\pmis\\customerordermanagementapp\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B92642E-74BB-4779-8764-42C4F56A6C2C}|CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj|solutionrelative:customerordermanagementapp\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +66,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerOrderManagementApp",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+              "RelativeToolTip": "CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T10:55:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalInformationRepository.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\PersonalInformationRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\PersonalInformationRepository.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\PersonalInformationRepository.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\PersonalInformationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:45:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs*",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\EmployeeRepository.cs*",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA4wBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:32:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:30:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Models\\EntityModels\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:30:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:29:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:26:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CustomerOrderManagementApp",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\CustomerOrderManagementApp.csproj",
@@ -54,78 +173,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Program.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Program.cs",
               "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Program.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T10:55:14.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\Abstractions\\ICustomerRepository.cs",
               "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Abstractions\\ICustomerRepository.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\Abstractions\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA0wAkAAAAlAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:57:23.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "PremiumCustomerRepository.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs",
-              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs*",
-              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs*",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowCYAAAAMAAAA",
+              "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs",
+              "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\PremiumCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:36:23.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA1wBwAAAAMAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:23:51.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
               "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:16:26.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Base\\Repository.cs",
               "RelativeDocumentMoniker": "CustomerOrderManagementApp\\Repositories\\Base\\Repository.cs",
               "ToolTip": "D:\\Course - ibCS ASP.NET Core\\PMIS\\CustomerOrderManagementApp\\Repositories\\Base\\Repository.cs",
               "RelativeToolTip": "CustomerOrderManagementApp\\Repositories\\Base\\Repository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:16:14.138Z",
               "EditorCaption": ""
