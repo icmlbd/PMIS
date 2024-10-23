@@ -1,6 +1,4 @@
-﻿using CustomerOrderManagementApp.DataStorage;
-using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.Repositories.Abstractions;
+﻿using CustomerOrderManagementApp.Repositories.Abstractions;
 using Microsoft.EntityFrameworkCore;
 
 

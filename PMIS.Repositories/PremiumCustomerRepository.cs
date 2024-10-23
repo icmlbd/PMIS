@@ -39,6 +39,16 @@ namespace CustomerOrderManagementApp.Repositories
             throw new NotImplementedException();
         }
 
+        public Customer GetFirstOrDefault(Func<Customer, bool> predicate)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ICollection<Customer> GetMany(Func<Customer, bool> predicate)
+        {
+            throw new NotImplementedException();
+        }
+
         //ICollection<Customer> ICustomerRepository.GetAll()
         //{
         //    throw new NotImplementedException();

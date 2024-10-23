@@ -17,7 +17,7 @@ namespace CustomerOrderManagementApp.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             OracleModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -175,6 +175,33 @@ namespace CustomerOrderManagementApp.Migrations
                     b.HasKey("EmployeeId");
 
                     b.ToTable("PersonalInformation");
+                });
+
+            modelBuilder.Entity("PMIS.Models.EntityModels.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("NUMBER(10)");
+
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Code")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<double>("UnitPrice")
+                        .HasColumnType("BINARY_DOUBLE");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("CustomerOrderManagementApp.Models.EntityModels.Customer", b =>

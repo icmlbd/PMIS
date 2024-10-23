@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CustomerOrderManagementApp.Repositories
 {
-    public class CustomerRepository : Repository<Customer>,ICustomerRepository
+    public class CustomerRepository :Repository<Customer>, ICustomerRepository
     {
         private EcommerceDbContext _db;
 
-        public CustomerRepository() : base(new EcommerceDbContext())
+        public CustomerRepository(EcommerceDbContext db) : base(db)
         {
-            _db = new EcommerceDbContext();
+            _db = db;
         }
 
         // CRUD operations -- add, update, remove, get operations, getall, getbyid

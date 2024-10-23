@@ -1,5 +1,6 @@
 ﻿using CustomerOrderManagementApp.Models.EntityModels;
 using Microsoft.EntityFrameworkCore;
+using PMIS.Models.EntityModels;
 using System.Diagnostics;
 
 namespace CustomerOrderManagementApp.DataStorage
@@ -13,6 +14,8 @@ namespace CustomerOrderManagementApp.DataStorage
         public DbSet<Employee> Employees { get; set; }
 
         public DbSet<PersonalInformation> PersonalInformation { get; set; }
+
+        public DbSet<Product> Products { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

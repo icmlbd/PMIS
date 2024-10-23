@@ -1,3 +1,4 @@
+using CustomerOrderManagementApp.DataStorage;
 using CustomerOrderManagementApp.Repositories;
 using CustomerOrderManagementApp.Repositories.Abstractions;
 
@@ -9,18 +10,22 @@ builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddTransient<IEmployeeRepository,EmployeeRepository>();
 
-builder.Services.AddTransient<ICustomerRepository>(c =>
-{
+//builder.Services.AddTransient<ICustomerRepository>(c =>
+//{
     
-    var httpContextAccessor = c.GetRequiredService<IHttpContextAccessor>();
-    string customerType = httpContextAccessor?.HttpContext?.Request.Query["customerType"].ToString();
-    if(customerType.ToLower()=="premium")
-    {
-        return new PremiumCustomerRepository();
-    }
+//    var httpContextAccessor = c.GetRequiredService<IHttpContextAccessor>();
+//    string customerType = httpContextAccessor?.HttpContext?.Request.Query["customerType"].ToString();
+//    if(customerType.ToLower()=="premium")
+//    {
+//        return new PremiumCustomerRepository();
+//    }
 
-    return new CustomerRepository();
-});
+//    return new CustomerRepository();
+//});
+
+builder.Services.AddTransient<ICustomerRepository,CustomerRepository>();
+
+builder.Services.AddTransient<EcommerceDbContext>();
 
 var app = builder.Build();
 

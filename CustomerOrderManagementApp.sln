@@ -5,7 +5,13 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerOrderManagementApp", "CustomerOrderManagementApp\CustomerOrderManagementApp.csproj", "{3B92642E-74BB-4779-8764-42C4F56A6C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCorePractices", "EFCorePractices\EFCorePractices.csproj", "{43CCB5DD-75C7-454D-A46B-509E324E846E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCorePractices", "EFCorePractices\EFCorePractices.csproj", "{43CCB5DD-75C7-454D-A46B-509E324E846E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMIS.Repositories", "PMIS.Repositories\PMIS.Repositories.csproj", "{C7CF7193-9DCE-4B7E-A667-0FE63BAF48E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMIS.Models", "PMIS.Models\PMIS.Models.csproj", "{04B93772-7215-473D-B12E-4A5AC0C6BE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMIS.Database", "PMIS.Database\PMIS.Database.csproj", "{71CAC904-B802-4B67-A70A-6E1C0EDA768E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{43CCB5DD-75C7-454D-A46B-509E324E846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CCB5DD-75C7-454D-A46B-509E324E846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CCB5DD-75C7-454D-A46B-509E324E846E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CF7193-9DCE-4B7E-A667-0FE63BAF48E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CF7193-9DCE-4B7E-A667-0FE63BAF48E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CF7193-9DCE-4B7E-A667-0FE63BAF48E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CF7193-9DCE-4B7E-A667-0FE63BAF48E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B93772-7215-473D-B12E-4A5AC0C6BE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B93772-7215-473D-B12E-4A5AC0C6BE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B93772-7215-473D-B12E-4A5AC0C6BE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B93772-7215-473D-B12E-4A5AC0C6BE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CAC904-B802-4B67-A70A-6E1C0EDA768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CAC904-B802-4B67-A70A-6E1C0EDA768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CAC904-B802-4B67-A70A-6E1C0EDA768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CAC904-B802-4B67-A70A-6E1C0EDA768E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

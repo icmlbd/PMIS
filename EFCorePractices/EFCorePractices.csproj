@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CustomerOrderManagementApp\CustomerOrderManagementApp.csproj" />
+    <ProjectReference Include="..\PMIS.Repositories\PMIS.Repositories.csproj" />
   </ItemGroup>
 
 </Project>
