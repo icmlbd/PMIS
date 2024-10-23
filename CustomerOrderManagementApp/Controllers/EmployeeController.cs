@@ -9,12 +9,12 @@ namespace CustomerOrderManagementApp.Controllers
 {
     public class EmployeeController : Controller
     {
-        EmployeeRepository _employeeRepository;
-        ICustomerRepository _customerRepository; 
+        IEmployeeRepository _employeeRepository;
+       
 
-        public EmployeeController(ICustomerRepository customerRepository)
+        public EmployeeController()
         {
-            _customerRepository = customerRepository;
+           
             _employeeRepository = new EmployeeRepository();
         }
 
@@ -22,22 +22,22 @@ namespace CustomerOrderManagementApp.Controllers
         {
             var employees=_employeeRepository.GetAll();
 
-           
+
             // Map Employee entities to EmployeeViewModel
             var employeeViewModels = employees.Select(e => new EmployeeViewModel
             {
                 Id = e.Id,
                 Name = e.Name,
-                EmployeeIDNo = e.EmployeeIDNo,  // Ensure this matches your Employee entity property
+                EmployeeIDNo = e.EmployeeIDNo,
                 PresentAddress = e.PersonalInformation.PresentAddress,
-                PermanentAddress = e.PersonalInformation?.PermanentAddress,  // Use ?. to prevent null reference
-                FathersName = e.PersonalInformation?.FathersName,
-                MothersName = e.PersonalInformation?.MothersName,
+                PermanentAddress = e.PersonalInformation.PermanentAddress,
+                FathersName = e.PersonalInformation.FathersName,
+                MothersName = e.PersonalInformation.MothersName,
                 SpousesName = e.PersonalInformation?.SpousesName,
                 MobileNo = e.PersonalInformation?.MobileNo,
                 TelephoneNo = e.PersonalInformation?.TelephoneNo,
                 Email = e.PersonalInformation?.Email,
-                DateOfBirth = (DateTime)(e.PersonalInformation?.DateOfBirth),
+                DateOfBirth = e.PersonalInformation?.DateOfBirth ?? default(DateTime),
                 NIDNo = e.PersonalInformation?.NIDNo,
                 BloodGroup = e.PersonalInformation?.BloodGroup,
                 BankAccountInfo = e.PersonalInformation?.BankAccountInfo

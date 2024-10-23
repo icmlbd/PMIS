@@ -19,20 +19,20 @@
 
         public string MothersName { get; set; }
 
-        public string SpousesName { get; set; }
+        public string? SpousesName { get; set; }
 
-        public string MobileNo { get; set; }
+        public string? MobileNo { get; set; }
 
-        public string TelephoneNo { get; set; }
+        public string? TelephoneNo { get; set; }
 
-        public string Email { get; set; }
+        public string? Email { get; set; }
 
         public DateTime DateOfBirth { get; set; }
 
-        public string NIDNo { get; set; }
+        public string? NIDNo { get; set; }
 
-        public string BloodGroup { get; set; }
+        public string? BloodGroup { get; set; }
 
-        public string BankAccountInfo { get; set; }
+        public string? BankAccountInfo { get; set; }
     }
 }
