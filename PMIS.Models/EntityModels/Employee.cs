@@ -1,4 +1,6 @@
-﻿namespace CustomerOrderManagementApp.Models.EntityModels
+﻿using PMIS.Models.EntityModels;
+
+namespace CustomerOrderManagementApp.Models.EntityModels
 {
     public class Employee
     {
@@ -9,5 +11,8 @@
 
         // Navigation Property to Personal Information
         public virtual PersonalInformation PersonalInformation { get; set; }
+
+        // Navigation Property to EmployeeOFFICIAL
+        public virtual EmployeeOfficial EmployeeOfficial { get; set; }
     }
 }

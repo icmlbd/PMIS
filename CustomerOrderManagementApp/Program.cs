@@ -1,6 +1,8 @@
 using CustomerOrderManagementApp.DataStorage;
 using CustomerOrderManagementApp.Repositories;
 using CustomerOrderManagementApp.Repositories.Abstractions;
+using PMIS.Repositories;
+using PMIS.Repositories.Abstractions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +26,7 @@ builder.Services.AddTransient<IEmployeeRepository,EmployeeRepository>();
 //});
 
 builder.Services.AddTransient<ICustomerRepository,CustomerRepository>();
+builder.Services.AddTransient<IProductRepository, ProductRepository>();
 
 builder.Services.AddTransient<EcommerceDbContext>();
 

@@ -12,10 +12,10 @@ namespace CustomerOrderManagementApp.Controllers
         IEmployeeRepository _employeeRepository;
        
 
-        public EmployeeController()
+        public EmployeeController(IEmployeeRepository employeeRepository)
         {
-           
-            _employeeRepository = new EmployeeRepository();
+
+            _employeeRepository = employeeRepository;
         }
 
         public IActionResult Index()
