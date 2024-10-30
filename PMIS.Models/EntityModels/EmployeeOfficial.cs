@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PMIS.Models.EntityModels
 {
-    internal class EmployeeOfficial
+    public class EmployeeOfficial
     {
     }
 }
