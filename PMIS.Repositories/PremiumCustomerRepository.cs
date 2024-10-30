@@ -1,7 +1,7 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.Repositories.Abstractions;
+﻿using PMIS.Models.EntityModels;
+using PMIS.Repositories.Abstractions;
 
-namespace CustomerOrderManagementApp.Repositories
+namespace PMIS.Repositories
 {
     public class PremiumCustomerRepository : ICustomerRepository
     {

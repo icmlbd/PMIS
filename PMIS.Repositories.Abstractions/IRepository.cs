@@ -1,8 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
-
-namespace CustomerOrderManagementApp.Repositories.Abstractions
+﻿
+namespace PMIS.Repositories.Abstractions
 {
-    public interface IRepository<T> where T:class 
+    public interface IRepository<T> where T : class
     {
         public bool Add(T entity);
 
@@ -20,6 +19,6 @@ namespace CustomerOrderManagementApp.Repositories.Abstractions
 
 
         public ICollection<T> GetMany(Func<T, bool> predicate);
-        
+
     }
 }

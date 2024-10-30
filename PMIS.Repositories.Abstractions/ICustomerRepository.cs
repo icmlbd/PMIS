@@ -1,6 +1,6 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
+﻿using PMIS.Models.EntityModels;
 
-namespace CustomerOrderManagementApp.Repositories.Abstractions
+namespace PMIS.Repositories.Abstractions
 {
     public interface ICustomerRepository : IRepository<Customer>
     {

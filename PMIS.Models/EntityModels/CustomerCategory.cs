@@ -1,4 +1,4 @@
-﻿namespace CustomerOrderManagementApp.Models.EntityModels
+﻿namespace PMIS.Models.EntityModels
 {
     public class CustomerCategory
     {

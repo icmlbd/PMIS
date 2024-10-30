@@ -7,19 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Abstractions\**" />
-    <EmbeddedResource Remove="Abstractions\**" />
-    <None Remove="Abstractions\**" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\PMIS.Database\PMIS.Database.csproj" />
     <ProjectReference Include="..\PMIS.Models\PMIS.Models.csproj" />
     <ProjectReference Include="..\PMIS.Repositories.Abstractions\PMIS.Repositories.Abstractions.csproj" />
+    <ProjectReference Include="..\PMIS.Repositories\PMIS.Repositories.csproj" />
+    <ProjectReference Include="..\PMIS.Services.Abstractions\PMIS.Services.Abstractions.csproj" />
+    <ProjectReference Include="..\PMIS.Services\PMIS.Services.csproj" />
   </ItemGroup>
 
 </Project>

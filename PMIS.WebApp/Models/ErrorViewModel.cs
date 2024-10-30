@@ -1,4 +1,4 @@
-namespace CustomerOrderManagementApp.Models
+namespace PMIS.WebApp.Models
 {
     public class ErrorViewModel
     {

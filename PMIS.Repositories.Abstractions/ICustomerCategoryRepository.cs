@@ -1,5 +1,4 @@
-﻿using CustomerOrderManagementApp.Repositories.Abstractions;
-using PMIS.Models.EntityModels;
+﻿using PMIS.Models.EntityModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PMIS.Repositories.Abstractions
 {
-    public interface IProductRepository : IRepository<Product>
+    public interface ICustomerCategoryRepository : IRepository<CustomerCategory>
     {
     }
 }

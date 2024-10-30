@@ -1,6 +1,4 @@
-﻿using PMIS.Models.EntityModels;
-
-namespace CustomerOrderManagementApp.Models.EntityModels
+﻿namespace PMIS.Models.EntityModels
 {
     public class Employee
     {

@@ -1,16 +1,15 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.Models.ViewModels;
-using CustomerOrderManagementApp.Repositories;
-using CustomerOrderManagementApp.Repositories.Abstractions;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using PMIS.Models.EntityModels;
+using PMIS.Repositories.Abstractions;
+using PMIS.WebApp.Models.ViewModels;
 
-namespace CustomerOrderManagementApp.Controllers
+namespace PMIS.WebApp.Controllers
 {
     public class EmployeeController : Controller
     {
         IEmployeeRepository _employeeRepository;
-       
+
 
         public EmployeeController(IEmployeeRepository employeeRepository)
         {
@@ -20,7 +19,7 @@ namespace CustomerOrderManagementApp.Controllers
 
         public IActionResult Index()
         {
-            var employees=_employeeRepository.GetAll();
+            var employees = _employeeRepository.GetAll();
 
 
             // Map Employee entities to EmployeeViewModel
@@ -37,7 +36,7 @@ namespace CustomerOrderManagementApp.Controllers
                 MobileNo = e.PersonalInformation?.MobileNo,
                 TelephoneNo = e.PersonalInformation?.TelephoneNo,
                 Email = e.PersonalInformation?.Email,
-                DateOfBirth = e.PersonalInformation?.DateOfBirth ?? default(DateTime),
+                DateOfBirth = e.PersonalInformation?.DateOfBirth ?? default,
                 NIDNo = e.PersonalInformation?.NIDNo,
                 BloodGroup = e.PersonalInformation?.BloodGroup,
                 BankAccountInfo = e.PersonalInformation?.BankAccountInfo
@@ -52,15 +51,16 @@ namespace CustomerOrderManagementApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(EmployeeViewModel employeeViewModel) 
+        public IActionResult Create(EmployeeViewModel employeeViewModel)
         {
-            if (ModelState.IsValid) 
+            if (ModelState.IsValid)
             {
                 var employee = new Employee
                 {
                     Name = employeeViewModel.Name,
                     EmployeeIDNo = employeeViewModel.EmployeeIDNo,
-                    PersonalInformation=new PersonalInformation {
+                    PersonalInformation = new PersonalInformation
+                    {
                         PresentAddress = employeeViewModel.PresentAddress,
                         PermanentAddress = employeeViewModel.PermanentAddress,
                         FathersName = employeeViewModel.FathersName,
@@ -77,14 +77,15 @@ namespace CustomerOrderManagementApp.Controllers
                 };
                 _employeeRepository.Add(employee);
                 return RedirectToAction("Index");
-            
+
             }
             return View(employeeViewModel);
 
         }
 
-        public IActionResult Delete(int id) { 
-            var employee= _employeeRepository.Get(id);
+        public IActionResult Delete(int id)
+        {
+            var employee = _employeeRepository.Get(id);
             if (employee == null)
             {
                 return NotFound();
@@ -95,7 +96,7 @@ namespace CustomerOrderManagementApp.Controllers
 
         }
 
-        public IActionResult Edit(int id) 
+        public IActionResult Edit(int id)
         {
             var employee = _employeeRepository.Get(id);
             if (employee == null)
@@ -130,10 +131,12 @@ namespace CustomerOrderManagementApp.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(EmployeeViewModel employeeViewModel) {
+        public IActionResult Edit(EmployeeViewModel employeeViewModel)
+        {
 
-            if (ModelState.IsValid) { 
-                var employee= _employeeRepository.Get(employeeViewModel.Id);
+            if (ModelState.IsValid)
+            {
+                var employee = _employeeRepository.Get(employeeViewModel.Id);
                 if (employee == null)
                 {
                     return NotFound();
@@ -165,7 +168,8 @@ namespace CustomerOrderManagementApp.Controllers
 
         }
 
-        public IActionResult Details(int id) {
+        public IActionResult Details(int id)
+        {
 
             var employee = _employeeRepository.Get(id);
             if (employee == null)

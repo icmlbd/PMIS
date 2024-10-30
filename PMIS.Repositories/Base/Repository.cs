@@ -1,8 +1,8 @@
-﻿using CustomerOrderManagementApp.Repositories.Abstractions;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using PMIS.Repositories.Abstractions;
 
 
-namespace CustomerOrderManagementApp.Repositories.Base
+namespace PMIS.Repositories.Base
 {
     public class Repository<T> : IRepository<T> where T : class
     {

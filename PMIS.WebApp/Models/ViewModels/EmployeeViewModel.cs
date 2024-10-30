@@ -1,4 +1,4 @@
-﻿namespace CustomerOrderManagementApp.Models.ViewModels
+﻿namespace PMIS.WebApp.Models.ViewModels
 {
     public class EmployeeViewModel
     {

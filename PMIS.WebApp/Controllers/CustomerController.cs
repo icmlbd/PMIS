@@ -1,34 +1,33 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.Models.ViewModels;
-using CustomerOrderManagementApp.Repositories;
-using CustomerOrderManagementApp.Repositories.Abstractions;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using PMIS.Models;
+using PMIS.Models.EntityModels;
+using PMIS.Repositories;
+using PMIS.Repositories.Abstractions;
+using PMIS.Services.Abstractions;
+using PMIS.WebApp.Models;
+using PMIS.WebApp.Models.ViewModels;
 
-namespace CustomerOrderManagementApp.Controllers
+namespace PMIS.WebApp.Controllers
 {
 
     public class CustomerController : Controller
     {
-        ICustomerRepository _customerRepository; 
-        CustomerCategoryRepository _custCategoryRepository; 
-       
-        
-        public CustomerController(ICustomerRepository customerRepository)
+        ICustomerService _customerService;
+        ICustomerCategoryService _customerCategoryService; 
+
+
+        public CustomerController(ICustomerService customerService, ICustomerCategoryService cateogryService)
         {
-            _customerRepository = customerRepository;
-            
-            _custCategoryRepository = new CustomerCategoryRepository();
+            _customerService = customerService;
+            _customerCategoryService = cateogryService;
         }
 
-       
+
         public IActionResult Index(string? customerType)
         {
-            List<Customer> customers; 
-           
-            customers = _customerRepository.GetAll().OrderBy(c => c.Name).ToList();
-
-
+            List<Customer> customers;
+                        customers = _customerService.GetAll().OrderBy(c => c.Name).ToList();
             return View(customers);
         }
 
@@ -39,12 +38,12 @@ namespace CustomerOrderManagementApp.Controllers
             // goal: mainly customer create page return 
 
             CustomerCreateViewModel model = new CustomerCreateViewModel();
-            model.Customers = _customerRepository.GetAll().ToList();
-            model.CustomerCategories = _custCategoryRepository.GetAll()
+            model.Customers = _customerService.GetAll().ToList();
+            model.CustomerCategories = _customerCategoryService.GetAll()
                                                     .ToList()
-                                                    .Select(c=> new SelectListItem()
+                                                    .Select(c => new SelectListItem()
                                                     {
-                                                        Text = c.Name, 
+                                                        Text = c.Name,
                                                         Value = c.Id.ToString()
                                                     });
 
@@ -58,7 +57,7 @@ namespace CustomerOrderManagementApp.Controllers
             //second time: on submit we want to have the database operation
             //database related operations
             //problem: customer list data is not persisted 
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 var inputCustomer = new Customer()
                 {
@@ -68,40 +67,40 @@ namespace CustomerOrderManagementApp.Controllers
                     Age = customer.Age,
                     CategoryId = customer.CategoryId,
                     AddressCity = customer.AddressCity
-                    
+
                 };
 
 
-              bool isAdded =  _customerRepository.Add(inputCustomer);
+                bool isAdded = _customerService.Add(inputCustomer);
                 if (isAdded)
                 {
                     return RedirectToAction("Index");
                 }
-                
+
             }
 
-            customer.CustomerCategories = _custCategoryRepository.GetAll()
+            customer.CustomerCategories = _customerCategoryService.GetAll()
                                                     .ToList()
                                                     .Select(c => new SelectListItem()
                                                     {
                                                         Text = c.Name,
                                                         Value = c.Id.ToString()
-                                                    }); 
-            customer.Customers = _customerRepository.GetAll().ToList();
+                                                    });
+            customer.Customers = _customerService.GetAll().ToList();
             return View(customer);
 
-            
+
             //return View(model);
         }
 
         public IActionResult View(int? id)
         {
-            if(id == null)
+            if (id == null)
             {
                 return View("NotFound");
             }
 
-            Customer existingCustomer = _customerRepository.Get((int)id);
+            Customer existingCustomer = _customerService.Get((int)id);
 
             if (existingCustomer == null)
             {
@@ -120,7 +119,7 @@ namespace CustomerOrderManagementApp.Controllers
                 return View("NotFound");
             }
 
-            Customer customer = _customerRepository.Get((int)id);
+            Customer customer = _customerService.Get((int)id);
 
             if (customer == null)
             {
@@ -141,14 +140,14 @@ namespace CustomerOrderManagementApp.Controllers
 
             if (ModelState.IsValid)
             {
-                Customer existingCustomer = _customerRepository.Get((int)customer.Id);
+                Customer existingCustomer = _customerService.Get(customer.Id);
 
                 existingCustomer.Name = customer.Name;
                 existingCustomer.Phone = customer.Phone;
                 existingCustomer.Address = customer.Address;
                 existingCustomer.Age = customer.Age;
 
-                bool isUpdated = _customerRepository.Update(existingCustomer);
+                bool isUpdated = _customerService.Update(existingCustomer);
 
                 return RedirectToAction("Index");
             }
@@ -157,8 +156,8 @@ namespace CustomerOrderManagementApp.Controllers
 
         }
 
-       
-        
+
+
     }
 
 

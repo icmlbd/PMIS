@@ -1,16 +1,12 @@
-using CustomerOrderManagementApp.DataStorage;
-using CustomerOrderManagementApp.Repositories;
-using CustomerOrderManagementApp.Repositories.Abstractions;
-using PMIS.Repositories;
-using PMIS.Repositories.Abstractions;
+using PMIS.Application.Configurations; 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpContextAccessor();
-
-builder.Services.AddTransient<IEmployeeRepository,EmployeeRepository>();
+builder.Services.AddRepositories();
+builder.Services.AddApplicationServices();
 
 //builder.Services.AddTransient<ICustomerRepository>(c =>
 //{
@@ -25,10 +21,6 @@ builder.Services.AddTransient<IEmployeeRepository,EmployeeRepository>();
 //    return new CustomerRepository();
 //});
 
-builder.Services.AddTransient<ICustomerRepository,CustomerRepository>();
-builder.Services.AddTransient<IProductRepository, ProductRepository>();
-
-builder.Services.AddTransient<EcommerceDbContext>();
 
 var app = builder.Build();
 

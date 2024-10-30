@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CustomerOrderManagementApp.Models.EntityModels
+namespace PMIS.Models.EntityModels
 {
     public class Customer
     {

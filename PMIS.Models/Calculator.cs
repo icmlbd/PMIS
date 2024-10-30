@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PMIS.Models.EntityModels
+namespace PMIS.Models
 {
-    public class EmployeeOfficial
+    public class Calculator
     {
-        public int Id { get; set; }
+        public int Add(int x, int y)
+        {
+            return x + y;
+        }
     }
 }

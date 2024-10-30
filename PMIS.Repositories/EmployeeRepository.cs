@@ -1,10 +1,10 @@
-﻿using CustomerOrderManagementApp.DataStorage;
-using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.Repositories.Abstractions;
-using CustomerOrderManagementApp.Repositories.Base;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using PMIS.Database;
+using PMIS.Models.EntityModels;
+using PMIS.Repositories.Abstractions;
+using PMIS.Repositories.Base;
 
-namespace CustomerOrderManagementApp.Repositories
+namespace PMIS.Repositories
 {
     public class EmployeeRepository:Repository<Employee>, IEmployeeRepository
     {

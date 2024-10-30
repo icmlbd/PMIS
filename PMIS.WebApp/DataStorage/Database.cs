@@ -1,6 +1,6 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
+﻿using PMIS.Models.EntityModels;
 
-namespace CustomerOrderManagementApp.DataStorage
+namespace PMIS.WebApp.DataStorage
 {
     public class Database
     {

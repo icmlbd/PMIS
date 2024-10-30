@@ -1,8 +1,8 @@
-using CustomerOrderManagementApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using PMIS.WebApp.Models;
 using System.Diagnostics;
 
-namespace CustomerOrderManagementApp.Controllers
+namespace PMIS.WebApp.Controllers
 {
     public class HomeController : Controller
     {

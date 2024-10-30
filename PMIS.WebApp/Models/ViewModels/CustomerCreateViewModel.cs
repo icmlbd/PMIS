@@ -1,9 +1,9 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
-using CustomerOrderManagementApp.ValidationAttributes;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using PMIS.Models.EntityModels;
+using PMIS.WebApp.ValidationAttributes;
 using System.ComponentModel.DataAnnotations;
 
-namespace CustomerOrderManagementApp.Models.ViewModels
+namespace PMIS.WebApp.Models.ViewModels
 {
     public class CustomerCreateViewModel
     {
@@ -16,8 +16,8 @@ namespace CustomerOrderManagementApp.Models.ViewModels
         [MaxLength(150)]
         public string? Address { get; set; }
 
-        [Age(21,90,ErrorMessage ="Age is not fulfilled as per requirement")]
-            
+        [Age(21, 90, ErrorMessage = "Age is not fulfilled as per requirement")]
+
         public int Age { get; set; }
 
         public string? AddressCity { get; set; }

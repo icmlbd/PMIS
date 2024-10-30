@@ -1,9 +1,8 @@
-﻿using CustomerOrderManagementApp.Models.EntityModels;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using PMIS.Models.EntityModels;
 using System.Diagnostics;
 
-namespace CustomerOrderManagementApp.DataStorage
+namespace PMIS.Database
 {
     public class EcommerceDbContext : DbContext
     {
