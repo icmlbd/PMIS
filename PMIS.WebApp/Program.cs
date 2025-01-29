@@ -1,12 +1,27 @@
-using PMIS.Application.Configurations; 
+using Microsoft.AspNetCore.Authentication.Cookies;
+using PMIS.Application.Configurations;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddJsonOptions(option =>
+{
+    option.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+});
+
+
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddRepositories();
 builder.Services.AddApplicationServices();
+
+
+
+builder.Services.AddAuthentication()
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Auth/Login";
+    }); 
 
 //builder.Services.AddTransient<ICustomerRepository>(c =>
 //{
@@ -32,6 +47,8 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

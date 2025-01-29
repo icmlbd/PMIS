@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using PMIS.Models;
 using PMIS.Models.EntityModels;
@@ -11,6 +12,7 @@ using PMIS.WebApp.Models.ViewModels;
 namespace PMIS.WebApp.Controllers
 {
 
+    [Authorize]
     public class CustomerController : Controller
     {
         ICustomerService _customerService;
@@ -26,10 +28,15 @@ namespace PMIS.WebApp.Controllers
 
         public IActionResult Index(string? customerType)
         {
+            
             List<Customer> customers;
                         customers = _customerService.GetAll().OrderBy(c => c.Name).ToList();
             return View(customers);
         }
+
+        //customer/getcustomers 
+        //api/customers
+       
 
 
         public IActionResult Create()

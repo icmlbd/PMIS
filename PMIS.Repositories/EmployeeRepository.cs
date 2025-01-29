@@ -9,8 +9,8 @@ namespace PMIS.Repositories
     public class EmployeeRepository:Repository<Employee>, IEmployeeRepository
     {
         private EcommerceDbContext _db;
-        public EmployeeRepository(): base(new EcommerceDbContext()) {
-            _db = new EcommerceDbContext();
+        public EmployeeRepository(EcommerceDbContext db): base(db) {
+            _db = db;
         }
         public override ICollection<Employee> GetAll()
         {

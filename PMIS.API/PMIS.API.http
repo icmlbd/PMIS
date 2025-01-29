@@ -1,0 +1,61 @@
+@API_HostAddress = https://localhost:7232
+@Customer_ID = 2
+
+GET {{API_HostAddress}}/api/customers/
+Accept: application/json
+
+###
+
+
+
+GET {{API_HostAddress}}/api/customers/{{Customer_ID}}
+Accept: application/xml
+###
+
+GET {{API_HostAddress}}/api/customers/{{Customer_ID}}
+Accept: application/json
+
+###
+
+POST {{API_HostAddress}}/api/customers/
+Accept: application/json
+Content-Type: application/json
+{
+  
+    
+    "name": "New Customer Test 1",
+    "phone": "9823892",
+    "address": "Dhaka",
+    "age": 35,
+    "dob": null,
+    "gender": null,
+    "addressCity": null,
+    "categoryId": 2,
+    
+  
+}
+
+###
+
+PATCH {{API_HostAddress}}/api/customers/{{Customer_ID}}
+Accept: application/json
+Content-Type: application/json
+ 
+    [
+      {
+        "op":"replace",
+        "path" : "/name",
+        "value" : "Customer Name Replaced"
+      
+      
+      }
+    
+    
+    ]
+
+  ### 
+  
+  GET {{API_HostAddress}}/api/categories/3/customers?address=dhaka
+  Accept: application/xml
+  
+  

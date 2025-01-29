@@ -20,5 +20,9 @@ namespace PMIS.Repositories.Abstractions
 
         public ICollection<T> GetMany(Func<T, bool> predicate);
 
+        IQueryable<T> GetManyQuerable(Func<T, bool> predicate);
+
+        IQueryable<T> GetManyQuerable();
+
     }
 }

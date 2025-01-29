@@ -5,6 +5,7 @@ namespace PMIS.Repositories
 {
     public class PremiumCustomerRepository : ICustomerRepository
     {
+
         public bool Add(Customer customer)
         {
             // AWS API Enpoint 
@@ -45,6 +46,16 @@ namespace PMIS.Repositories
         }
 
         public ICollection<Customer> GetMany(Func<Customer, bool> predicate)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IQueryable<Customer> GetManyQuerable(Func<Customer, bool> predicate)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IQueryable<Customer> GetManyQuerable()
         {
             throw new NotImplementedException();
         }

@@ -29,6 +29,7 @@ namespace PMIS.Application.Configurations
         {
             services.AddTransient<ICustomerService, CustomerService>();
             services.AddTransient<ICustomerCategoryService, CustomerCategoryService>();
+            services.AddTransient<IPaymentGatewayService, PaymentGatewayService>();
         }
     }
 }

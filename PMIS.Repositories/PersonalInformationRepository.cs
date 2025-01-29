@@ -8,9 +8,9 @@ namespace PMIS.Repositories
     public class PersonalInformationRepository : Repository<PersonalInformation>
     {
         EcommerceDbContext _db;
-        public PersonalInformationRepository() : base(new EcommerceDbContext())
+        public PersonalInformationRepository(EcommerceDbContext db) : base(db)
         {
-            _db = new EcommerceDbContext();
+            _db = db;
         }
     }
 }

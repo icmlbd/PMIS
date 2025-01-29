@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PMIS.Database;
 using PMIS.Repositories.Abstractions;
 
 
 namespace PMIS.Repositories.Base
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public  class Repository<T> : IRepository<T> where T : class
     {
         DbContext _db;
 
@@ -45,14 +46,24 @@ namespace PMIS.Repositories.Base
            return  Table.ToList();
         }
 
-        public T GetFirstOrDefault(Func<T,bool> predicate)
+        public virtual T GetFirstOrDefault(Func<T,bool> predicate)
         {
             return Table.FirstOrDefault(predicate);
         }
 
-        public ICollection<T> GetMany(Func<T,bool> predicate)
+        public virtual ICollection<T> GetMany(Func<T,bool> predicate)
         {
             return Table.Where(predicate).ToList();
+        }
+
+        public virtual IQueryable<T> GetManyQuerable(Func<T, bool> predicate)
+        {
+            return Table.Where(predicate).AsQueryable(); 
+        }
+
+        public virtual IQueryable<T> GetManyQuerable()
+        {
+            return Table.AsQueryable();
         }
     }
 }

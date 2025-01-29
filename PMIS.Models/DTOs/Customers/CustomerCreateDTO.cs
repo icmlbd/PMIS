@@ -1,18 +1,24 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Serialization;
 
-namespace PMIS.Models.EntityModels
+namespace PMIS.Models.DTOs.Customers
 {
-    public class Customer
+    [XmlRoot]
+    public class CustomerCreateDTO
     {
-
-        public int Id { get; set; }
-
         [Required]
+        [XmlElement]
         public string Name { get; set; }
         [Required]
+        [XmlElement]
         public string Phone { get; set; }
         public string? Address { get; set; }
-
+        [XmlElement]
         public int Age { get; set; }
         public DateTime? DOB { get; set; }
 
@@ -21,11 +27,5 @@ namespace PMIS.Models.EntityModels
         public string? AddressCity { get; set; }
 
         public int? CategoryId { get; set; }
-
-        //public string? EmailAddress { get; set; }   
-
-        public virtual CustomerCategory? Category { get; set; }
-
-
     }
 }

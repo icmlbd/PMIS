@@ -1,12 +1,14 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace PMIS.Models.EntityModels
+namespace PMIS.Models.DTOs.Customers
 {
-    public class Customer
+    public class CustomerUpdateDTO
     {
-
-        public int Id { get; set; }
-
         [Required]
         public string Name { get; set; }
         [Required]
@@ -21,11 +23,5 @@ namespace PMIS.Models.EntityModels
         public string? AddressCity { get; set; }
 
         public int? CategoryId { get; set; }
-
-        //public string? EmailAddress { get; set; }   
-
-        public virtual CustomerCategory? Category { get; set; }
-
-
     }
 }
